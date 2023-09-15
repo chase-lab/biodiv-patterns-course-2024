@@ -1,0 +1,1 @@
+install.packages(c('shiny', 'shinyBS', 'shinyWidgets','tidyverse','ggExtra','viridis','cowplot'))shiny::runGitHub("plthompson/Meta_com_framework", subdir = "meta_com_shiny")
