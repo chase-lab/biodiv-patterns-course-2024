@@ -6,7 +6,7 @@ Part II: Measuring and comparing biodiversity patterns and processes
 Prof. Jonathan Chase (jonathan.chase@idiv.de)
 
 ## Co-Instructors:
-Dr. Paola Barajas (paola.barajas@idiv.de); Dr. Shane Blowes (shane.blowes@idiv.de); Dr. Juan Carvajal Quintero (juan.carvajal-quintero@idiv.de); Dr. Zachary Hajian Forooshani (zachary.hajian-forooshani@idiv.de); Dr. Daniela Hoss (danielahoss@gmail.com); Dr. Emma Ladouceur (emma.ladouceur@idiv.de); Dr. Alban Sagouis (alban.sagouis@idiv.de); Dr. Kimberly Thompson (kimberly.thompson@idiv.de); Dr. Roel van Klink (roel.klink@idiv.de); Dr. Wubing Xu (wubing.xu@idiv.de); Dr. Zohre Eslami (eslami.zohre86@gmail.com)
+Dr. Paola Barajas (paola.barajas@idiv.de); Dr. Shane Blowes (shane.blowes@idiv.de); Dr. Juan Carvajal Quintero (juan.carvajal-quintero@idiv.de); Dr. Zohre Eslami (eslami.zohre86@gmail.com); Dr. Zachary Hajian Forooshani (zachary.hajian-forooshani@idiv.de); Dr. Daniela Hoss (danielahoss@gmail.com); Dr. Emma Ladouceur (emma.ladouceur@idiv.de); Dr. Alban Sagouis (alban.sagouis@idiv.de); Dr. Kimberly Thompson (kimberly.thompson@idiv.de); Dr. Roel van Klink (roel.klink@idiv.de); Dr. Wubing Xu (wubing.xu@idiv.de)
  
 
 ## Course plan:
