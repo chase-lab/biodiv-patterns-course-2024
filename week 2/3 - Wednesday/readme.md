@@ -19,8 +19,6 @@ If the shiny app does not appear or if it crashes, please send me an email: alba
 
 ## Afternoon session
 
-Description of the projects to prepare for Friday afternoon.
-
 What can we learn from studying different biodiversity metrics? 
 -	Richness (S or alpha): number of species, but will be heavily influences by rare species with an abundance of 1.  
 -	Abundance (N): are there differences in number of individuals?
@@ -31,13 +29,34 @@ What can we learn from studying different biodiversity metrics?
 
 
 
-Group assignment 
+## Group assignment 
 
-Find 5 papers that compared different treatments of some ecological factor (land use, different time points, elevation, pollution, etc) in terms of species richness or other metrics and calculate our other favorite metrics: Rarefied richness, PIE, beta (if you really want to diver into that rabbit hole), etc. How often do you find different interpretations than the original authors?  
-You will need raw data that provide for each species the abundance in each plot (not aggregated over plots or treatments). Not all papers provide this. Look for papers published in the last 3-4 years. 
+Work in groups of 2-3. Together you will dive deeper into what you can learn by calculating different biodiversity metrics for real world data.
 
-1)	Find some papers that study species richness differences 
-for example: 
+Presentations summarizing your work will be given via zoom on Friday afternoon to both your classmates and this week’s course instructors. Each group should plan to present their work for 15 minutes (please do not go over this time). Then there will be 5 minutes for questions. Roel, Kim, and Alban will be available to work one-on-one with groups at different times during the day on Thursday.
+
+*Goals:*
+- Calculate biodiversity metrics using real-world example data taken from the scientific literature.
+- Interpret your results by clearly explaining what they tell us about ecological communities.
+
+The papers below each provide biodiversity data (i.e., site x species matrix with abundances) necessary to calculate the metrics we have learned about this week.
+
+### For 3-5 papers in this list:
+
+1. Read/scan the paper. What metrics have the authors already calculated? What were their conclusions about what these metrics indicate about the communities under investigation?
+2. Find the (raw) biodiversity data provided in or as a supplement to the paper. Note, you might need to wrangle the data in R so that it is in the format required for the different metric calculations.
+3.	Think about what else you would be curious to know about the communities studied in the paper. What metrics could help you answer your additional question(s)?
+4.	For the metrics you identified in step 3, calculate them in R, using the tutorials and lab exercises from this week as a guide.
+5.	Create a graph(s) or your results --- again using the tutorials and lab exercises from this week as a guide.
+6.	Interpret your results. What new insights do your results provide for understanding these communities?
+
+### Expectations for the presentation
+
+For each paper: 
+- 1 slide dedicated to what the authors already calculated and their interpretation. *Important advice:* Do not get bogged down with the details in each paper. This slide should provide a brief summary that can be explained in 2-3 sentences. For example, what type (species, treatment, etc.) of community did they study? What metrics did they calculate? What did they find?
+- 2-4 slides dedicated to explaining the additional question(s) you addressed, the methods you used (i.e., which metrics you calculated and how), your results (i.e., graphs), and your interpretations of the results. 
+
+### Papers
 
 - https://www.frontiersin.org/articles/10.3389/fevo.2022.1021677/full
 - https://link.springer.com/article/10.1007/s13157-022-01643-6
@@ -55,29 +74,10 @@ for example:
 - https://doi.org/10.1007/s10531-007-9189-z
 - https://www.scielo.br/j/bn/a/c4TBHHcGYzgntPPSkmQDB4M/?format=pdf
 
-
-3)	Download the underlying raw data 
-4)	Wrangle the data to put it in the right format 
-5)	Check the result of the original papers
-6)	Calculate the metrics you're interested in (alpha, beta, gamma, rarefied richness, PIE, Shannon etc)
-7)	Compare to the results of the authors. How often do you find differences? Which important patterns/ differences have the original authors missed (if any)?
- 
-
-2 paths: 
-Find publication (Google scholar, Web of Science (university access)) -> data repo 
-Repositories (Dryad, NERC, EDI, LTER) -> find paper that belongs to it. 
+### Helpful Resources
 
 Some code about data extraction in R can be found in this page:  
 https://github.com/chase-lab/biodiv-patterns-course-2021/tree/main/week%202/3%20-%20Wednesday
-
-
-
-What we expect for the presentation: 
-
-1) question
-2) Methods (explanation of datasets, how did you analyse them? which metrics did you extract? etc.) 
-3) Results with graphs 
-4) Conclusions.
 
 
 
