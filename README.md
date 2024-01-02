@@ -12,10 +12,10 @@ Dr. Paola Barajas (paola.barajas@idiv.de); Dr. Shane Blowes (shane.blowes@idiv.d
 ## Course plan:
 ### Week 1: (January 8-12): Mechanisms of biodiversity: Metacommunities Theory and Practice
 
-##### Monday: Lecture, Reading, Discussion, Exercise (Jon)
+##### Monday: Lecture, Reading, Discussion, Exercise (Shane)
 ##### Tuesday: Introduction to modelling, population and metapopulation dynamics using simulations and computer exercises (Shane)
-##### Wednesday: Metacommunity theory, preparation for independent projects (Shane/Wubing) 
-##### Thursday: Independent project (Shane/Wubing)
+##### Wednesday: Metacommunity theory, preparation for independent projects (Shane) 
+##### Thursday: Independent project (Shane)
 ##### Friday: Independent project (Morning): Presentation/discussion (Afternoon)
 
 ### Week 2: (January 15-19): Measuring and comparing patterns of (taxonomic) diversity
