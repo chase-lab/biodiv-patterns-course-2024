@@ -56,8 +56,8 @@ The papers below each provide biodiversity data (i.e., site x species matrix wit
 
 For each paper: 
 
-- 1 slide dedicated to what the authors already calculated and their interpretation. *Important advice:* Do not get bogged down with the details in each paper. This slide should provide a brief summary that can be explained in 2-3 sentences. For example, what type (species, treatment, etc.) of community did they study? What metrics (N, S, Shannon, etc) did they calculate? What did they find?
-- 2-4 slides dedicated to explaining the additional question(s) you addressed, the methods you used (i.e., which metrics you calculated and how), your results (i.e., graphs), and your interpretations of the results. 
+- 1 slide dedicated to what the authors already calculated and their interpretation. *Important advice:* Do not get bogged down with the details in each paper. This slide should provide a brief summary that can be explained in 2-3 sentences. For example, what species group did they study? What was the comparison that they made (some environmental gradient or different treatments?), and what was their sample size (i.e. number of sites)? What metrics (N, S, Shannon, etc) did they calculate? What did they conclude?
+- 2-4 slides dedicated to explaining the additional question(s) you addressed, the methods you used (i.e., which metrics you calculated and how), your results (i.e., graphs), and your interpretations of the results. Is this different from what the authors concluded? 
 
 ### Papers
 
@@ -71,11 +71,9 @@ For each paper:
 - Almeida-Gomes, M. and Rocha, C.F.D., 2014. Diversity and distribution of lizards in fragmented Atlantic Forest landscape in Southeastern Brazil. Journal of Herpetology, 48(3), pp.423-429.
 - Cabrera-Guzman, E. & Reynoso, V.H., 2012. Amphibian and reptile communities of rainforest fragments: Minimum patch size to support high richness and abundance. Biodiversity and Conservation, 21(12), pp.3243-3265.
 - Filgueiras, B.K.C., Iannuzzi, L. & Leal, I.R., 2011. Habitat fragmentation alters the structure of dung beetle communities in the Atlantic Forest. Biological Conservation, 144(1), pp.362-369.
-- Lion, M.B., Garda, A.A. & Fonseca, C.R., 2014. Split distance: A key landscape metric shaping amphibian populations and communities in forest fragments. Diversity and Distributions, 20(11), pp.1245-1257.
-- Lion, M.B., Garda, A.A., Santana, D.J. and Fonseca, C.R., 2016. The conservation value of small fragments for Atlantic forest reptiles. Biotropica, 48(2), pp.265-275.
-- https://doi.org/10.1590/S1676-06032006000200009
-- https://doi.org/10.1007/s10531-007-9189-z
-- https://www.scielo.br/j/bn/a/c4TBHHcGYzgntPPSkmQDB4M/?format=pdf
+- Lion, M.B., Garda, A.A. & Fonseca, C.R., 2014. Split distance: A key landscape metric shaping amphibian populations and communities in forest fragments. Diversity and Distributions, 20(11), pp.1245-1257. https://onlinelibrary.wiley.com/doi/10.1111/ddi.12228
+- Lion, M.B., Garda, A.A., Santana, D.J. and Fonseca, C.R., 2016. The conservation value of small fragments for Atlantic forest reptiles. Biotropica, 48(2), pp.265-275. https://onlinelibrary.wiley.com/doi/full/10.1111/btp.12277 (same sites but different animals as the previous paper)
+
 
 ### Helpful Resources
 
