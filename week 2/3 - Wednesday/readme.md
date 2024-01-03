@@ -45,9 +45,9 @@ The papers below each provide biodiversity data (i.e., site x species matrix wit
 
 ### For 3-5 papers in this list:
 
-1. Read/scan the paper. What metrics have the authors already calculated? What were their conclusions about what these metrics indicate about the communities under investigation?
-2. Find the (raw) biodiversity data provided in or as a supplement to the paper. Note, you might need to wrangle the data in R so that it is in the format required for the different metric calculations.
-3.	Think about what else you would be curious to know about the communities studied in the paper. What metrics could help you answer your additional question(s)?
+1.  Read/scan the paper. What metrics have the authors already calculated? What were their conclusions about what these metrics indicate about the communities under investigation?
+2.  Find the (raw) biodiversity data provided in or as a supplement to the paper. Note, you might need to wrangle the data in R so that it is in the format required for the different metric calculations.
+3.	What metrics were not calculated by the authors? What can they tell us about the structure of the community? 
 4.	For the metrics you identified in step 3, calculate them in R, using the tutorials and lab exercises from this week as a guide.
 5.	Create a graph(s) of your results --- again using the tutorials and lab exercises from this week as a guide.
 6.	Interpret your results. What new insights do your results provide for understanding these communities?
