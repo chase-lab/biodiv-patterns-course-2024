@@ -20,10 +20,10 @@ Dr. Paola Barajas (paola.barajas@idiv.de); Dr. Shane Blowes (shane.blowes@idiv.d
 
 ### Week 2: (January 15-19): Measuring and comparing patterns of (taxonomic) diversity
 
-##### Monday: Lecture, Reading, Discussion, Exercise (Jon)
-##### Tuesday: Calculating biodiversity metrics (richness, evenness, Hill numbers); mobr lesson (Roel)
+##### Monday: Lecture, Reading, Discussion, Exercise (Roel)
+##### Tuesday: Calculating biodiversity metrics (richness, evenness, Hill numbers); mobr lesson (Kim)
 ##### Wednesday: Effects of sampling on biodiversity measures (species accumulation curves, etc); mobsim (Alban)
-##### Thursday: Independent project/analysis: simulations, analyses of empirical and/or simulated data (Alban, Roel)
+##### Thursday: Independent project/analysis: simulations, analyses of empirical and/or simulated data (Alban, Roel, Kim)
 ##### Friday: Independent project/analysis (Morning): Presentation/discussion (Afternoon)
 
 ### Week 3: (January 22-26): Functional Diversity and Biodiversity and Ecosystem Functioning (BEF)
