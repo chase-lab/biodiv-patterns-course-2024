@@ -6,6 +6,9 @@ The primary objective of Monday will be to introduce students to the second half
 
 [Use this query](https://europepmc.org/search?query=%28JOURNAL%3A%22Science%20%28New%20York,%20N.Y.%29%22%20OR%20JOURNAL%3A%22Nature%22%29%20AND%20%28TITLE%3A%22Biodiversity%22%29%20AND%20%28PUB_TYPE%3A%22Journal%20Article%22%20OR%20PUB_TYPE%3A%22article-commentary%22%20OR%20PUB_TYPE%3A%22research-article%22%20OR%20PUB_TYPE%3A%22protocol%22%20OR%20PUB_TYPE%3A%22rapid-communication%22%20OR%20PUB_TYPE%3A%22product-review%22%29%20AND%20%28FIRST_PDATE%3A%5B2020%20TO%202024%5D%29&page=1&sortBy=CITED%2Bdesc) to chose your article, though make sure it is a research (preferably not a review) article (and also not a news, comment, policy or perspective piece). Come prepared to give a brief (2-3 minute) synopsis to the class on Monday afternoon. Your (no slides/powerpoint) summary should include what aspect of biodiversity was studied, what the major contribution of the article was, and why you think it was published for a general audience? 
 
+Please [email me](mailto:shane.blowes@idiv.de) the article (or the details thereof) you have chosen 
+so as I can add them to the repository for discussion purposes (e.g., to look at figures together).
+
 ## Part 1.2. Sampling tree metacommunities in Halle Forests. (You can do this over the weekend, or anytime before 12.00 on Monday, January 8)
 
 Objective: Observe tree species diversity (numbers of species, relative abundances) and tree species composition (names and types of trees) in multiple forests within the Halle (Saale) region. Use these observations as a basis for thinking about what influence the numbers and types of species in a given area, and how they change across space and time
@@ -37,10 +40,7 @@ What is biodiversity? Why does it matter? How does biodiversity vary in space/ti
 (see powerpoint in folder).
 
 
-## Part 5. 14.30-15.30  Questions and discussion of biodiversity research article. 
-
-Please [email me](mailto:shane.blowes@idiv.de) the article (or the details thereof) you have chosen 
-so as I can add them to the repository for discussion purposes (e.g., to look at figures together).
+## Part 5. 14.30-15.30  Summaries and discussion of biodiversity research article. 
 
 ## Part 6. 15.30-16.00  Lecture
 Biodiversity maintenance and metacommunities
