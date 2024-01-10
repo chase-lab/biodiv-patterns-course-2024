@@ -2,16 +2,20 @@ library(tidyverse)
 library(cowplot)
 library(mcomsimr)
 
+install.packages('devtools')
 devtools::install_github("plthompson/mcomsimr")
 
-
+# set seed for reproducibility
+set.seed(42)
+# density independent growth rates
 S = 10 # number of species
 env_traits(species = S,
            max_r = 5,                         # max growth rate
            min_env = 0, max_env = 1,          # min and max of species environmental optima
-           env_niche_breadth = runif(n = S, min = 0.01, max = 0.1),       # niche breadth
+           env_niche_breadth = 0.2, #runif(n = S, min = 0.01, max = 0.1),       # niche breadth
            optima_spacing = 'even')           # spacing of z_i (optima)
 
+?env_traits
 
 ##--------simulate metacommumity dynamics with the Thompson model
 # Number of patches
@@ -20,7 +24,8 @@ P = 20
 S = 20
 
 # set up landscape for experiment (want the same landscape for both treatments)
-meta_landscape <- landscape_generate(patches = P, plot = FALSE)
+meta_landscape <- landscape_generate(patches = P, 
+                                     plot = TRUE)
 
 # dispersal matrix
 # set rate of distance decay
@@ -28,7 +33,7 @@ d = 0.1
 disp_mat <- dispersal_matrix(landscape = meta_landscape,
                              torus = TRUE,
                              kernel_exp = d,
-                             plot = FALSE)
+                             plot = TRUE)
 
 # generate the time series of the environmental conditions for 
 # each patch (same for each treatment)
@@ -39,7 +44,8 @@ env_conditions <- env_generate(landscape = meta_landscape,
                                               # in the environment 
                                               # (a value of 1 means the environment is 
                                               # temporally uncorrelated)
-                               timesteps = 1000)
+                               timesteps = 1000,
+                               plot = TRUE)
 
 # density independent component of model
 densInd_niche <- env_traits(species = S,
@@ -64,7 +70,7 @@ stabilising_interaction_mat <- species_int_mat(species = S,
 
 # use simulateMC() function to simulate dynamics
 sim_equal_comp <- simulate_MC(patches=P, species=S,
-                              dispersal = 0.1,
+                              # dispersal = 0.1,
                               landscape = meta_landscape,
                               disp_mat = disp_mat,
                               env.df = env_conditions,
@@ -76,7 +82,7 @@ sim_equal_comp <- simulate_MC(patches=P, species=S,
 ?simulate_MC
 
 sim_stabil_comp <- simulate_MC(patches=P, species=S,
-                               dispersal = 0.1,
+                               # dispersal = 0.1,
                                landscape = meta_landscape,
                                disp_mat = disp_mat,
                                env.df = env_conditions,
@@ -216,6 +222,7 @@ alpha_S <- bind_rows(equalC_alpha_S %>%
                      stabilC_alpha_S %>% 
                        mutate(competition = 'stabilising'))
 
+# alpha (or local) richness dynamics
 ggplot() +
   facet_wrap(~patch) + 
   geom_point(data = alpha_S,
