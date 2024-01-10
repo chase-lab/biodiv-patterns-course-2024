@@ -12,10 +12,13 @@ library(cowplot)
 
 # initial population size
 N0 = 100
+
 # per-capita birth rate
 b = 1.2
+
 # per-capita mortality (e.g., annual plant)
 d = 1
+
 # initialise vector to store population size each year, 
 # and assign initial population size as first value
 N <- NULL
@@ -73,8 +76,8 @@ r = 5
 N <- c()
 N[1] <- N0
 
-for(i in 1:19){
-  N[i+1] = N[i] + r * N[i]
+for(time in 1:19){
+  N[time+1] = N[time] + r * N[time]
 }
 
 plot(x = 1:length(N),
@@ -94,12 +97,14 @@ plot(x = 1:length(N),
 # to their probabilistic nature (see also Clark 2009 TREE for argument that stochastic forces exist only in models; e.g., "...processes perceived
 # as stochastic at one level of abstraction have explanations at another.").
 
-# Environmental stochasticity describes variablity in extrinsic environmental conditions (e.g., due to variation in temperature,
+# Environmental stochasticity describes variablity in extrinsic environmental 
+#conditions (e.g., due to variation in temperature,
 # precipitation, wind, etc)
 
 # Extend geometric population model to include demographic stochasticity
 
-# We have to decide how to change our model to include stochasticity. For example, we could assume that the parameter values of both the birth
+# We have to decide how to change our model to include stochasticity. 
+# For example, we could assume that the parameter values of both the birth
 # and death processes in the geometric growth model as random draws from probability distributions.
 # Here, we'll instead use the approach taken in the metacommunity model
 # that we will study later today (see also Adler & Drake 2008 Am Nat, Shoemaker et al. 2020 Ecology).
@@ -116,6 +121,8 @@ rpois(n = 1000,
       lambda = 10)
 plot(density(rpois(n = 1000,
                    lambda = 10)))
+
+sum(rpois(n = 1000, lambda = 1) < 0)
 par(mfrow=c(1,2))
 hist(rpois(n = 1000,
                    lambda = 10))
@@ -135,7 +142,7 @@ b = 1.2
 d = 1
 
 # initialise vector to store population size
-N <- NULL
+N <- c()
 N[1] <- N0
 
 # simulate population growth for 10 years
@@ -175,6 +182,34 @@ for(sim in 1:nsims){
 matplot(t(N_matrix), type = 'l')
 lines(1:length(N_growing), N_growing, lwd = 3)
 
+# alternate model to include demographic stochasticity
+# now, include year-to-year variation in per-capita births only
+# death fixed (e.g., annual plant population)
+d = 1
+# assume per-capita birth rates are distributed log-normally
+b = exp(rnorm(n = 10, mean = log(1.2), sd = 0.25))
+
+# visual inspection of stochastic per-capita birth rates
+# sd = 1
+plot(density(exp(rnorm(n = 10, mean = log(1.2), sd = 1))))
+# sd = 0.25
+plot(density(exp(rnorm(n = 10, mean = log(1.2), sd = 0.25))));abline(v = log(1.2))
+
+# simulate dynamics with stochastic b
+N_stoch_b = c()
+N_stoch_b[1] = N0
+
+for(t in 1:9){
+  N_stoch_b[t+1] = N_stoch_b[t] + (b[t]-d)*N_stoch_b[t]  
+}
+
+# plot determinstic and stochastic dynamics
+plot(1:10, N_stoch_b, 
+     col = 'red',
+     xlab = 'time', ylab = 'N', type = 'l')
+lines(1:10, N_growing)
+lines(1:10, N, col = 'orange')
+
 ## Environmental stochasiticity
 
 # To include environmental stochasticity in our model of geometric population growth, we include an extra
@@ -196,7 +231,7 @@ phi = rnorm(nyears, mean = 0, sd = 1)
 a = 0 # can to control autocorrelation of environmental fluctuations
 c = (1 - a^2)^0.5
 # initial vector to store environmental fluctuations
-sigma <- NULL
+sigma <- c()
 sigma[1] = 0
 # loop to create environmental fluctuations
 for(t in 1:nyears){
@@ -240,27 +275,57 @@ rm(sigma)
 plot(1:(nyears+1), uncorrelated_sigma,
      xlab = 'Time [years]',
      ylab = 'Environmental condition\n(deviation from mean)',
-     type = 'b',
+     type = 'b', lwd = 3,
      ylim = c(min(c(uncorrelated_sigma, pos_corr_sigma, neg_corr_sigma)) - 0.1,
               max(c(uncorrelated_sigma, pos_corr_sigma, neg_corr_sigma)) + 0.1))
-lines(1:(nyears+1), pos_corr_sigma, col = 2, lty = 2)
-lines(1:(nyears+1), neg_corr_sigma, col = 3, lty = 3)
+lines(1:(nyears+1), pos_corr_sigma, col = 'red', lty = 2, lwd = 3)
+lines(1:(nyears+1), neg_corr_sigma, col = 'orange', lty = 3, lwd = 3)
 abline(c(0,0), lty = 2)   
 
 # simulate geometric growth with environmental stochasticity
+b = 1.2
+d = 1
+
 N_uncorrelated <- NULL
 N_uncorrelated[1] <- N0
 
+
 # first uncorrelated
+# N[t+1] = N[t] + (b - d)*N[t] + sigma[t] * N[t],
 for(t in 1:nyears){
   N_uncorrelated[t+1] = N_uncorrelated[t] + (b - d)*N_uncorrelated[t] +
-    N_uncorrelated[t] * N_uncorrelated[t]
+    uncorrelated_sigma[t] * N_uncorrelated[t]
 }
 
-plot(x = 1:length(N_uncorrelated),
-     y = N_uncorrelated, type = 'l',
-     xlab = 'Time [years]',
-     ylab = 'Population size or density')
+N_positive_corr <- c()
+N_positive_corr[1] <- N0
+for(t in 1:nyears){
+  N_positive_corr[t+1] = N_positive_corr[t] + (b - d)*N_positive_corr[t] +
+    pos_corr_sigma[t] * N_positive_corr[t]
+}
+
+# anti-correlation in the environmental fluctuations
+N_negative_corr <- c()
+N_negative_corr[1] <- N0
+for(t in 1:nyears){
+  N_negative_corr[t+1] = N_negative_corr[t] + (b - d)*N_negative_corr[t] +
+    neg_corr_sigma[t] * N_negative_corr[t]
+}
+
+# combine for plotting
+env_stoch_dynamic <- tibble(t = rep(1:10, times = 3),
+                            N = c(N_uncorrelated, N_positive_corr, N_negative_corr),
+                            environment_fluctuations = rep(c('uncorrelated', 
+                                                             'positive correlation',
+                                                             'negative correlation'),
+                                                           each = 10)) %>% 
+  mutate(N = case_when(N < 0 ~ 0,
+                       TRUE ~ as.numeric(N)))
+
+ggplot(env_stoch_dynamic) +
+  geom_line(aes(x = t, y = N, colour = environment_fluctuations)) + 
+  labs(xlab = 'Time [years]',
+       ylab = 'Population size or density')
 
 
 # Exercises:
@@ -268,8 +333,10 @@ plot(x = 1:length(N_uncorrelated),
 
 # 2) How would you measure the impact of including stochasticity in a model of geometric growth using simulations?
 # Hint: it can be done using linear (statistical) models; see e.g., Blowes & Connolly 2012 Ecological Applications.
-# Use simulations and linear models to quantify the impact of including different combinations of demographic and environmental stochasticity.
+# Use simulations and linear models to quantify the impact of including different combinations of demographic 
+# and environmental stochasticity.
 
-# 3) Reformulate geometric population growth model to include stochastic variation in births and deaths as separate processes.
+# 3) Reformulate geometric population growth model to include stochastic variation in births 
+# and deaths as separate processes.
 
 
