@@ -144,4 +144,5 @@ ggplot() +
        y = 'Expected metapopulation growth rate')
 
 # Exercise: reproduce the qualitative outcomes shown in Figure 1
-# Exercise: extend to varying connectivity (hint: what has to change when connectivity varies?)
+# Exercise: extend to varying connectivity (hint: what has to change when 
+# connectivity varies?)
