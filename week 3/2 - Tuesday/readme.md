@@ -1,5 +1,5 @@
 
-## Tuesday January 24, 2023
+## Tuesday January 23, 2023
 
 Instructors: Dr. Paola Barajas (paola.barajas@idiv.de); Dr. Emma Ladouceur (emma.ladouceur@idiv.de)
 

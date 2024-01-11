@@ -1,7 +1,9 @@
 
 ## Monday January 22, 2023
 
-Instructor: Prof. Jonathan Chase (jonathan.chase@idiv.de)
+We will have the same zoom link all week (used in case of train strike/weather/or just if you need to use it)
+
+Instructor:Emma Ladouceur (emma.ladouceur@idiv.de)
 
 ## Introduction to Functional Diversity and Biodiversity and Ecosystem Functioning (BEF)
 

@@ -1,5 +1,5 @@
 
-## Wednesday January 25, 2023
+## Wednesday January 24, 2023
 
 Instructors: Dr. Daniela Hoss (danielahoss@gmail.com); Dr. Emma Ladouceur (emma.ladouceur@idiv.de)
 
@@ -7,7 +7,7 @@ Instructors: Dr. Daniela Hoss (danielahoss@gmail.com); Dr. Emma Ladouceur (emma.
 ## Morning: Introduction to Ecosystem Functioning 10:15- 11:00
   
   - Lecture and discussion on Ecosystem Functioning 
-  - How can we measure Ecosystem Functioning [Jam Board](https://jamboard.google.com/d/1PpvcS6VPHxlNTq1m-Ig7UkJlu4yiy1qpci7Qr8uZwWk/edit?usp=sharing)
+  - How can we measure Ecosystem Functioning [Jam Board](https://jamboard.google.com/d/1zqYZ58bNZ50duig4fHDgIbU3f5Ko8E2BPYaJ6abnG_U/edit?usp=sharing)
   - Share your ideas on the board or by chatting
   - Download slides [Here](https://www.dropbox.com/s/betplt1v9n542q1/Ecosystem_Functioning_2023.pdf?dl=0)
  
@@ -21,7 +21,7 @@ Before class please read two papers- and make some notes;
 - Discuss and organise main points for afternoon debate
 - Each member of the team should be prepared to make some points in the debate
 - An instructor will also join each group
-- Debate Jam board [Team Wardle](https://jamboard.google.com/d/1P3S543zZFAQVTkKGHJmiArjID7aXUIRQ60eOX48KR5Q/edit?usp=sharing) and [Team Eisenhauer](https://jamboard.google.com/d/1hxQuSqPfyJffyfpGlv8mm2sB_w3IPxmpqZI4_AzCoBU/edit?usp=sharing)
+- Debate Jam board [Team Wardle](https://jamboard.google.com/d/17aZPj6VBAzsif4jso4DiyuL6g2b-P6mLCHSAegvDzgY/edit?usp=sharing) and [Team Eisenhauer](https://jamboard.google.com/d/12mh1cvVJgpUzEmHGhoiOOx-FGj3mo8JteAZQ2xR0Zo0/edit?usp=sharing)
 - You can jot down your idea on the above jam boards
 
 ## Morning: Introduction to Ecosystem Functioning Experiments 11:30-12:00
