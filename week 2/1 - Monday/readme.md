@@ -5,10 +5,10 @@ I. Revisit last weeks' tree data (30 minutes)--Brainstorm how to make comparison
 II. Lecture (see ppt) + species accumulation exercise (1,5 hour)
 
 Species accumulation exercise: 
-Open spreadsheet --https://docs.google.com/spreadsheets/d/1A2WS5dcSathI0MRzNbygU5eWKk67p9N-p_bXx4d73J0/edit?usp=sharing 
-Draw random individuals from the bag, one at a time, and note the 'species' in the sheet for your group. You may eat the candy, but there will be a lot more candy this afternoon!
-See the species accumulation curve develop for each bag. 
-What community properties determine the shape of the curve? 
+1. Open spreadsheet --https://docs.google.com/spreadsheets/d/1A2WS5dcSathI0MRzNbygU5eWKk67p9N-p_bXx4d73J0/edit?usp=sharing. 
+2. Draw random individuals from the bag, one at a time, and note the 'species' in the sheet for your group. You may eat the candy, but there will be a lot more candy this afternoon!
+3. See the species accumulation curve develop for each bag. 
+4. What community properties determine the shape of the curve? 
 
 ## Part 2. 1:00pm-4pm: Discussion and lab excercise
 
