@@ -2,10 +2,13 @@
 
 I. Revisit last weeks' tree data (30 minutes)--Brainstorm how to make comparisons
 
-II. Lecture (see ppt) (1 hour)
+II. Lecture (see ppt) + species accumulation exercise (1,5 hour)
 
-III. Readings (see pdfs)
-
+Species accumulation exercise: 
+Open spreadsheet --https://docs.google.com/spreadsheets/d/1A2WS5dcSathI0MRzNbygU5eWKk67p9N-p_bXx4d73J0/edit?usp=sharing 
+Draw random individuals from the bag, one at a time, and note the 'species' in the sheet for your group. You may eat the candy, but there will be a lot more candy this afternoon!
+See the species accumulation curve develop for each bag. 
+What community properties determine the shape of the curve? 
 
 ## Part 2. 1:00pm-4pm: Discussion and lab excercise
 
@@ -13,7 +16,7 @@ I. Discussion of papers (45 minutes)
 
 II. Lab Excercise 
 
-1. Each student will sample ALL organisms from each of 3 local sites (bags) in a metacommunity (samples will be given at the start of the excercise). Names of species given in ppt.
+1. Each student will sample ALL organisms from each of 4 local sites (bags) in a metacommunity (samples will be given at the start of the excercise). Names of species given in ppt.
 2. Open up the Google Spreadsheet--https://docs.google.com/spreadsheets/d/1SGtdU61_3vX43Xtjaq579nEF1xuelRY3Dol2WGKFzUk/edit?usp=sharing
 3. Enter data for each 'control' sample in the appropriate place
 4. Calculate species richness for each local community (bag)
