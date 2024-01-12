@@ -1,12 +1,12 @@
 
-## Thursday January 26, 2023
+## Thursday January 25, 2023
 
 Instructors: Dr. Paola Barajas (paola.barajas@idiv.de); Dr. Daniela Hoss (danielahoss@gmail.com); Dr. Emma Ladouceur (emma.ladouceur@idiv.de)
 
 We will present options for independent projects to be taken on and work with you to get started and support you throughout the next two days.
 
 Log in here, at the times indicated for you group, to get help: 
-https://uni-leipzig.zoom.us/j/66355437999?pwd=VEtCakFlOEFnamplcGphNktHUjI3Zz09
+https://uni-leipzig.zoom.us/j/67366826966?pwd=ak9CMTVyRFNhZk56VEFxa25oZWpVUT09
 
 ## 10:30h - 11:15h 
 Office hours to discuss independent project: group 1

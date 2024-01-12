@@ -1,9 +1,9 @@
-## Friday January 27, 2023
+## Friday January 26, 2023
 
 # Project Help Desk & Final Presentation Information
 
 Log in here, at the times below to get help: 
-https://uni-leipzig.zoom.us/j/64332333295?pwd=M25LbHpnSnl4UzNOOFVoamFFOWNudz09
+https://uni-leipzig.zoom.us/j/67366826966?pwd=ak9CMTVyRFNhZk56VEFxa25oZWpVUT09
 
 Friday
 

@@ -1,6 +1,9 @@
 
 ## Wednesday January 24, 2023
 
+We will have the same zoom link all week (used in case of train strike/weather/or just if you need to use it):
+https://uni-leipzig.zoom.us/j/67366826966?pwd=ak9CMTVyRFNhZk56VEFxa25oZWpVUT09
+
 Instructors: Dr. Daniela Hoss (danielahoss@gmail.com); Dr. Emma Ladouceur (emma.ladouceur@idiv.de)
 
 

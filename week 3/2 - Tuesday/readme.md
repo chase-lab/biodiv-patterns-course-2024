@@ -1,8 +1,10 @@
 
 ## Tuesday January 23, 2023
 
-Instructors: Dr. Paola Barajas (paola.barajas@idiv.de); Dr. Emma Ladouceur (emma.ladouceur@idiv.de)
+We will have the same zoom link all week (used in case of train strike/weather/or just if you need to use it):
+https://uni-leipzig.zoom.us/j/67366826966?pwd=ak9CMTVyRFNhZk56VEFxa25oZWpVUT09
 
+Instructors: Dr. Paola Barajas (paola.barajas@idiv.de); Dr. Emma Ladouceur (emma.ladouceur@idiv.de)
 
 ## Part I: Introduction to Functional Diversity and Functional Ecology (10:15 – 12:15)
   
