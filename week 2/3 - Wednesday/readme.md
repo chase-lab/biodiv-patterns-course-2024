@@ -1,6 +1,6 @@
 ## Morning session
 
-Class beginning time: 10:10
+Class beginning time: 10:00
 
 ### Mobsim
 Please, BEFORE THE CLASS, run the following R code to install packages in preparation of our exercise with Mobsim:
