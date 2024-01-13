@@ -61,14 +61,17 @@ For each paper:
 
 ### Papers
 
-- Wang, N., Song, X., Wang, J., Wang, L. (2022). Impacts of different fencing periods and grazing intensities on insect diversity in the desert steppe in Inner Mongolia. Frontiers in Ecology and Evolution, 10. https://doi.org/10.3389/fevo.2022.1021677  Richness, abundance, Shannon diversity, and Simpson diversity of insects across fencing and grazing treatments. Data in supplementary materials.
+- Wang, N., Song, X., Wang, J., Wang, L. (2022). Impacts of different fencing periods and grazing intensities on insect diversity in the desert steppe in Inner Mongolia. Frontiers in Ecology and Evolution, 10. https://doi.org/10.3389/fevo.2022.1021677
+Richness, abundance, Shannon diversity, and Simpson diversity of insects across fencing and grazing treatments. Data in supplementary materials.
  
-- Lynch, K. E., Penk, M. R., Perrin, P. M., & Piggott, J. J. (2022). Cattle Grazing of a Celtic Sea Saltmarsh Affects Invertebrate Community Composition and Biomass, but not Diversity. Wetlands, 42(8), 125. https://doi.org/10.1007/s13157-022-01643-6  Richness, total abundance, community composition, and Pielou's evenness of insects across grazing treatments. Data in supplementary materials.
+- Lynch, K. E., Penk, M. R., Perrin, P. M., & Piggott, J. J. (2022). Cattle Grazing of a Celtic Sea Saltmarsh Affects Invertebrate Community Composition and Biomass, but not Diversity. Wetlands, 42(8), 125. https://doi.org/10.1007/s13157-022-01643-6
+  Richness, total abundance, community composition, and Pielou's evenness of insects across grazing treatments. Data in supplementary materials.
    
-- Assandri, G., Bogliani, G., Pedrini, P., & Brambilla, M. (2019). Toward the next Common Agricultural Policy reform: Determinants of avian communities in hay meadows reveal current policy's inadequacy for biodiversity conservation in grassland ecosystems. Journal of Applied Ecology, 56(3), 604-617. https://doi.org/10.1111/1365-2664.13332  Richness, community composition, and number of specialist species of birds across different grassland types. Data in Figshare https://doi.
-org/10.6084/m9.figshare.7296905.v3
+- Assandri, G., Bogliani, G., Pedrini, P., & Brambilla, M. (2019). Toward the next Common Agricultural Policy reform: Determinants of avian communities in hay meadows reveal current policy's inadequacy for biodiversity conservation in grassland ecosystems. Journal of Applied Ecology, 56(3), 604-617. https://doi.org/10.1111/1365-2664.13332
+  Richness, community composition, and number of specialist species of birds across different grassland types. Data in Figshare https://doi.org/10.6084/m9.figshare.7296905.v3
 
-- Leung, T. K. C., So, K. Y. K., Shum, B. T. W., & Hau, B. C. H. (2022). Optimal Mowing Regime in Enhancing Biodiversity in Seasonal Floodplains along Engineered Channels. Sustainability, 14(7), 4002. https://doi.org/10.3390/su14074002  Richness and abundance for birds, amphibians, reptiles, butterflies, Odonates, macroinvertebrates, and plants across mowing treatments. Data in Zenodo https://doi.org/10.5281/zenodo.63
+- Leung, T. K. C., So, K. Y. K., Shum, B. T. W., & Hau, B. C. H. (2022). Optimal Mowing Regime in Enhancing Biodiversity in Seasonal Floodplains along Engineered Channels. Sustainability, 14(7), 4002. https://doi.org/10.3390/su14074002
+  Richness and abundance for birds, amphibians, reptiles, butterflies, Odonates, macroinvertebrates, and plants across mowing treatments. Data in Zenodo https://doi.org/10.5281/zenodo.63
 88990
 
 -  Senior, K. L., Giljohann, K. M., McCarthy, M. A., & Kelly, L. T. (2023). A field test of mechanisms underpinning animal diversity in recently burned landscapes. Journal of Applied Ecology, 60, 146–157. https://doi.org/10.1111/1365-2664.14315  
