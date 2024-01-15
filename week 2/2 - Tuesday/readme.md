@@ -11,7 +11,7 @@ Contents
 - How do we measure beta diversity?
 
 
-## Afternoon session (13:00h -  max 15:15h)
+## Afternoon session (13:00h -  max 16:00h)
 
 - R tutorial for calculating the different metrics
 - Calculate metrics for Colorado Island tree count data
