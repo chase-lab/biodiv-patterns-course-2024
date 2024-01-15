@@ -1,36 +1,22 @@
 
-### Teacher: Roel van Klink
-roel.klink@idiv.de
+### Teacher: Kim Thompson
+kimberly.thompson@idiv.de
 
 ## Morning session (10:10h - 12:00h)
 
 Contents 
-- How can we describe biodiversity numerically?  
-- Accumulation curves and the Species Abundance Distribution
-- R packages for calculating biodiversity metrics
-- Calculating compositional differences between samples
+- How do we measure biodiversity at the alpha scale?  
+- Worksheets exercises to illustrate the metrics
+  
+- How do we measure beta diversity?
 
 
 ## Afternoon session (13:00h -  max 15:15h)
 
-Measuring and comparing biodiversity in the meta-community model(s) from week 1,
-including reshaping data to fit your needs  
+- R tutorial for calculating the different metrics
+- Calculate metrics for Colorado Island tree count data
+- Optional: Test out non-metric multidimensional scaling for visualizing similarities and differences
 
-1) calculate metrics on the 2 different competition simulations from week 1
-2) tweak the model to simulate something else: 
-        Options: 
-        
-        a) differences in dispersal capacity
-        
-        b) changing environment (climate change?)
-        
-        c) Differences in environmental heterogeneity
-        
-        d) ...
-        
-        And calculate your metrics across scales
-        
- 3) optional: simulate many different landscapes and compare these.       
 
 
 
