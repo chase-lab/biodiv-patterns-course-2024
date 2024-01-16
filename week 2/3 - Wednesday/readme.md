@@ -6,7 +6,7 @@ Class beginning time: 10:00
 Please, BEFORE THE CLASS, run the following R code to install packages in preparation of our exercise with Mobsim:
 ```
 install.packages(c("shiny", "shinyBS", "pals", "shinyjs", "devtools", "DT", "markdown"))
-devtools::install_github("albansagouis/mobsim")
+devtools::install_github("mobiodiv/mobsim")
 ```
 Please, DO NOT install `mobsim` through `install.packages("mobsim")`.
 
