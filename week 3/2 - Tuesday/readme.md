@@ -1,13 +1,13 @@
 
-## Tuesday January 23, 2023
+## Tuesday January 23, 2024
 
-Instructors: Dr. Paola Barajas (paola.barajas@idiv.de)
+Instructors: Dr. Paola Barajas Barbosa (paola.barajas@idiv.de)
 
-## Part I: Introduction to Functional Diversity and Functional Ecology (10:15 – 12:15)
+## Part I: Introduction to Functional Ecology (10:15 – 12:15)
   
   - Facets of biodiversity, how do they complement taxonomic diversity?
-  - Functional ecology and functional diversity (terminology clarification)
-  - Functional traits and trait-based approaches
+  - Functional ecology
+  - Functional diversity and trait-based approaches
   - How to estimate functional diversity based on traits
   - Exercise: Hill numbers and distance-based approach (trait distinctiveness) to estimate functional trait diversity (Anne Chao et al approach)
 
