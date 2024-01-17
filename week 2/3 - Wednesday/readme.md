@@ -91,9 +91,9 @@ Abundances of Amphibian and Reptile species from fragments of different sizes, e
 10. Filgueiras, B.K.C., Iannuzzi, L. & Leal, I.R., 2011. Habitat fragmentation alters the structure of dung beetle communities in the Atlantic Forest. Biological Conservation, 144(1), pp.362-369. https://doi.org/10.1016/j.biocon.2010.09.013  
 Abundances of beetle species in fragments along an area gradient and tree density gradient. And data extraction from .doc is _fun!_
 
-11a. Lion, M.B., Garda, A.A. & Fonseca, C.R., 2014. Split distance: A key landscape metric shaping amphibian populations and communities in forest fragments. Diversity and Distributions, 20(11), pp.1245-1257. https://onlinelibrary.wiley.com/doi/10.1111/ddi.12228. see note at next paper
+11. Lion, M.B., Garda, A.A. & Fonseca, C.R., 2014. Split distance: A key landscape metric shaping amphibian populations and communities in forest fragments. Diversity and Distributions, 20(11), pp.1245-1257. https://onlinelibrary.wiley.com/doi/10.1111/ddi.12228. see note at next paper
 
-11b. Lion, M.B., Garda, A.A., Santana, D.J. and Fonseca, C.R., 2016. The conservation value of small fragments for Atlantic forest reptiles. Biotropica, 48(2), pp.265-275. https://onlinelibrary.wiley.com/doi/full/10.1111/btp.12277 Mostly the exact same sites, but different animals than in the previous paper. These papers could be combined to perform new tests. For example, reptiles and amphibians could be combined, and the drivers tested in both papers seem to be not exacty the same. 
+12. Lion, M.B., Garda, A.A., Santana, D.J. and Fonseca, C.R., 2016. The conservation value of small fragments for Atlantic forest reptiles. Biotropica, 48(2), pp.265-275. https://onlinelibrary.wiley.com/doi/full/10.1111/btp.12277 Mostly the exact same sites, but different animals than in the previous paper. These papers could be combined to perform new tests. For example, reptiles and amphibians could be combined, and the drivers tested in both papers seem to be not exacty the same. 
 
 
 ### Helpful Resources
