@@ -13,7 +13,7 @@ Group 2: 11:20 - 12:00
 
 #### Thursday afternoon - Kim & Roel
 ##### Roel
-[_Zoom link Roel_](https://us04web.zoom.us/j/4253956239?pwd=eFQ0NmFqbnZlNHZRVG54NjVTdWRYUT09)  
+[_Zoom link Roel_](https://uni-leipzig.zoom.us/j/69985266470?pwd=UWIxaW1hY1FqVG9QTkttSVdKT0YxQT09)  
 Group 4: 13:00 - 13:40  
 Group 1: 13:50 - 14:30
 
