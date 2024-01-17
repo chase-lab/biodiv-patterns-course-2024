@@ -13,12 +13,12 @@ Group 2: 11:20 - 12:00
 
 #### Thursday afternoon - Kim & Roel
 ##### Roel
-[_Zoom link Roel_](https://us04web.zoom.us/j/4253956239?pwd=eFQ0NmFqbnZlNHZRVG54NjVTdWRYUT09)
+[_Zoom link Roel_](https://us04web.zoom.us/j/4253956239?pwd=eFQ0NmFqbnZlNHZRVG54NjVTdWRYUT09)  
 Group 4: 13:00 - 13:40  
 Group 1: 13:50 - 14:30
 
 ##### Kim
-[_Zoom link Kim_](https://uwmadison.zoom.us/j/99061447791)
+[_Zoom link Kim_](https://uwmadison.zoom.us/j/99061447791)  
 Group 3: 13:00 - 13:40  
 Group 2: 13:50 - 14:30
 
