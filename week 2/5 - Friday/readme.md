@@ -7,7 +7,7 @@ Group 1: 10:30 - 11:10
 Group 2: 11:20 - 12:00
 
 ##### Roel
-[_Zoom link Roel_](https://us04web.zoom.us/j/4253956239?pwd=eFQ0NmFqbnZlNHZRVG54NjVTdWRYUT09)  
+[_Zoom link Roel_](https://uni-leipzig.zoom.us/j/66404542697?pwd=dGwxazJqWWlPd2x2UFNGd0wwQUZVUT09)  
 Group 3: 10:30 - 11:10  
 Group 4: 11:20 - 12:00
 
