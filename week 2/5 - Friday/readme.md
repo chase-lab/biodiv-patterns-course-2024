@@ -1,14 +1,19 @@
-# Helpdesk: 10:00 - 11:00
-Log in, at the times below to get help
+# Project
 
-- 10:00 Helpdesk group 1
+#### Friday morning
+##### Kim
+[_Zoom link Kim_](https://us04web.zoom.us/j/4253956239?pwd=eFQ0NmFqbnZlNHZRVG54NjVTdWRYUT09)
+Group 1: 10:30 - 11:10  
+Group 2: 11:20 - 12:00
 
+##### Roel
+[_Zoom link Roel_](https://us04web.zoom.us/j/4253956239?pwd=eFQ0NmFqbnZlNHZRVG54NjVTdWRYUT09)
+Group 3: 10:30 - 11:10  
+Group 4: 11:20 - 12:00
 
-- 10:30 Helpdesk group 2
+#### Friday afternoon
+[_Zoom link_](https://us04web.zoom.us/j/4253956239?pwd=eFQ0NmFqbnZlNHZRVG54NjVTdWRYUT09)
 
+Group order: 3, 2, 1, 4
 
-
-
-# Project presentations: 15:00 - 16:00
-
-Please do not present longer than 15 minutes.
+Group composition and order were randomly drawn, see "./week 2/Random_draws.R"
