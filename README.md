@@ -28,10 +28,10 @@ Dr. Paola Barajas (paola.barajas@idiv.de); Dr. Shane Blowes (shane.blowes@idiv.d
 
 ### Week 3: (January 22-26): Functional Diversity and Biodiversity and Ecosystem Functioning (BEF)
 
-##### Monday: Lecture, Reading, Discussion, Exercise (Emma)
-##### Tuesday: Measures of Functional Diversity (Hill Numbers) (Paola, Emma)
+##### Monday: Lecture, Reading, Discussion, Exercise (Jon)
+##### Tuesday: Measures of Functional Diversity (Hill Numbers) (Paola)
 ##### Wednesday: Biodiversity, Metacommunity Assembly, and Ecosystem Functions (biomass, stability) (Daniela, Emma)
-##### Thursday: Independent project/analysis: simulations, analyses of empirical and/or simulated data (Paola, Daniela, Emma)
+##### Thursday: Independent project/analysis: analyses of empirical data (Emma)
 ##### Friday: Independent project/analysis (Morning): Presentation/discussion (Afternoon)
 
 ## Course Expectations and Grading:
