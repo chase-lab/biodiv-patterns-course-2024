@@ -9,3 +9,6 @@ Instructor: Prof. Jonathan Chase (jonathan.chase@idiv.de)
 ## Introduction to Functional Diversity and Biodiversity and Ecosystem Functioning (BEF)
 
 
+Before Wednesday's class please read two papers- and make some notes (from Emma);
+1. [Paper 1](https://doi.org/10.1111/jvs.12399)
+2. [Paper 2](https://doi.org/10.1111/jvs.12435)
