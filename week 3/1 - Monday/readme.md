@@ -8,12 +8,11 @@ Instructor: Prof. Jonathan Chase (jonathan.chase@idiv.de)
 
 ## Introduction to Functional Diversity and Biodiversity and Ecosystem Functioning (BEF)
 
-9.00-10.30. Introductory Lecture
-10.30--Break
-10.45-12.00--Discuss and design bird functional diversity/ecosystem function experiment
-
-12.00-3pm--Implement experiment
-3.00-5.00pm--write up question, experimental design, and results (briefly, 1-2 pages)
+#9.00-10.30. Introductory Lecture
+#10.30--Break
+#10.45-12.00--Discuss and design bird functional diversity/ecosystem function experiment
+#12.00-3pm--Implement experiment
+#3.00-5.00pm--write up question, experimental design, and results (briefly, 1-2 pages)
 
 
 
