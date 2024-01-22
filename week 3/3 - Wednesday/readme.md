@@ -27,10 +27,10 @@ Before class please read two papers- and make some notes;
 
 ## Morning: Introduction to Ecosystem Diversity and Ecosystem Functioning in the natural world 11:30-12:00
   
-  - Lecture and discussion on Ecosystem Functioning 
+  - Lecture and discussion on Ecosystem Diversity & Functioning 
   - How can we measure Ecosystem Functioning [Jam Board](https://jamboard.google.com/d/1zqYZ58bNZ50duig4fHDgIbU3f5Ko8E2BPYaJ6abnG_U/edit?usp=sharing)
   - Share your ideas on the board or by chatting
-  - Download slides [Here](https://www.dropbox.com/s/betplt1v9n542q1/Ecosystem_Functioning_2023.pdf?dl=0)
+  - Download slides [Here]()
  
 ## Afternoon: Debate 13:00-14:00
  - Prepare for debate
