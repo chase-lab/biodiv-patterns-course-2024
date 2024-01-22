@@ -9,13 +9,12 @@ Instructors: Dr. Paola Barajas Barbosa (paola.barajas@idiv.de)
   - Functional ecology
   - Functional diversity and trait-based approaches
   - How to estimate functional diversity based on traits
-  - Exercise: Hill numbers and distance-based approach (trait distinctiveness) to estimate functional trait diversity (Anne Chao et al approach)
 
 ## Part II: Estimations of Functional Diversity (13 - 16)
 
-  - Additional estimations of functional diversity: trait-value-based approach
+  - Functional diversity estimation I: Hill numbers and distance-based approach (Anne Chao et al approach)
+  - Functional diversity estimation II: trait-value-based approach (Blonder et al approach)
   - Multidimensional trait space and species trait combinations
   - Plant strategies according to their traits
-  - Exercise: Functional richness, evenness, dispersion (Blonder et al approach)
   
 ## Download class material 
