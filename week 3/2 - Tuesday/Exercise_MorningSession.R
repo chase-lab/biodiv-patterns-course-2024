@@ -2,6 +2,7 @@
 # Functional diversity Quantification I
 # Species-pairwise functional distances sensu Anne Chao et al
 # Code: Paola Barajas: paola.barajas@idiv.de
+# I used R version 4.1.0 (2021-05-18)
 ######################################################
 
 library(ggplot2)
@@ -9,9 +10,7 @@ library(dplyr)
 library(tidyr)
 library(tibble)
 library(cluster)
-library(iNEXT.3D)
-
-setwd("C:/_Teaching/Lecture_Jan_Msc/Class_2023")
+library(iNEXT.3D) # https://github.com/KaiHsiangHu/iNEXT.3D
 
 # Load data
 traits <- read.csv("Trait_imputed_144.csv") # Species by trait matrix
@@ -34,12 +33,13 @@ TD_est <- iNEXT.3D::estimate3D(data = Abun_p, diversity = 'TD', q = c(0, 1, 2), 
 plot(TD_est$Order.q, TD_est$qD)
 
 # - Functional diversity
-mask   <- as.data.frame(rownames(Abun_p))
+mask                 <- as.data.frame(rownames(Abun_p))
 mask$Scientific_name <- mask$`rownames(Abun_p)`
-traits <- left_join(mask, traits, by = "Scientific_name")
-rownames(traits) <- traits$Scientific_name # arrange only traits in columns. Species names as rownames
-traits$Scientific_name    <- NULL
-traits$`rownames(Abun_p)` <- NULL
+
+traits <- mask %>%
+  left_join(traits, by = "Scientific_name") %>%
+  column_to_rownames("Scientific_name") %>%
+  select(-Scientific_name, -`rownames(Abun_p)`)
 
 for (i in 1:ncol(traits)) {
   if (class(traits[,i]) == "character") traits[,i] <- factor(traits[,i], levels = unique(traits[,i]))
