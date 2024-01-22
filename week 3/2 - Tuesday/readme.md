@@ -16,3 +16,5 @@ Instructors: Dr. Paola Barajas Barbosa (paola.barajas@idiv.de)
   - Functional diversity estimation II: trait-value-based approach (Blonder et al approach)
   - Multidimensional trait space and species trait combinations
   - Plant strategies according to their traits
+
+Download class material here(https://drive.google.com/drive/folders/1p4rjmcypsl7AdHmkQq8KoyXAzt8ur4xD)
