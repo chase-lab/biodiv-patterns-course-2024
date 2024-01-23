@@ -18,6 +18,8 @@ Abun_p <- read.csv("Abun_p.csv")            # Species by site matrix
 
 min_ind <- 20 # minimum amount of individuals
 
+min_ind <- 20 # minimum amount of individuals
+
 Abun_p <- tibble::column_to_rownames(Abun_p, var = "Scientific_name") # columns are plots
 Abun_p <- Abun_p[,colSums(Abun_p) > min_ind]  
 
@@ -27,7 +29,8 @@ Cmax <- apply(Abun_p, 2, function(x)
   iNEXT.3D:::Coverage(x, 'abundance', 2*sum(x))) %>% min %>% round(., 4) # we use maximum coverage
 
 # - Taxonomic diversity
-TD_est <- iNEXT.3D::estimate3D(data = Abun_p, diversity = 'TD', q = c(0, 1, 2), datatype = 'abundance', base = 'coverage',
+TD_est <- iNEXT.3D::estimate3D(data = Abun_p, diversity = 'TD', q = c(0, 1, 2),
+                               datatype = 'abundance', base = 'coverage',
                      level = Cmax, nboot = 0)
 
 plot(TD_est$Order.q, TD_est$qD)
