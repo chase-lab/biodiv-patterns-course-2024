@@ -10,10 +10,10 @@ library(ggplot2)
 library(RColorBrewer)
 library(ggExtra)
 
-setwd("C:/_Teaching/Lecture_Jan_Msc/Class_2023")
+setwd("C:/_idiv/_Teaching/Lecture_Jan_Msc/Class_2024")
 
 # Tenerife data
-data_Tenerife <- read.csv("C:/_idiv/_Teaching/Lecture_Jan_Msc/Class_2023/Barajasetal2023_data_22052023.csv")
+data_Tenerife <- read.csv("Barajasetal2023_data_22052023.csv")
 
 data_Tenerife %>% group_by(Biogeo_status) %>% summarise(n = n())
 data_Tenerife %>% group_by(Ende_status) %>% summarise(n = n())
