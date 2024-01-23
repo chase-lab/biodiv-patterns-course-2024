@@ -42,7 +42,7 @@ mask$Scientific_name <- mask$`rownames(Abun_p)`
 traits <- mask %>%
   left_join(traits, by = "Scientific_name") %>%
   column_to_rownames("Scientific_name") %>%
-  select(-Scientific_name, -`rownames(Abun_p)`)
+  select(-`rownames(Abun_p)`)
 
 for (i in 1:ncol(traits)) {
   if (class(traits[,i]) == "character") traits[,i] <- factor(traits[,i], levels = unique(traits[,i]))
